@@ -3,9 +3,9 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  'REPLACE_WITH_YOUR_MNEMONIC',
+  'hawk puzzle carpet gospel quality real bike spare short destroy mother gown',
   // remember to change this to your own phrase!
-  'https://rinkeby.infura.io/v3/your_key'
+  'https://rinkeby.infura.io/v3/574fd0b6fe6e4c46bae3728f1b9019ea'
   // remember to change this to your own endpoint!
 );
 const web3 = new Web3(provider);
