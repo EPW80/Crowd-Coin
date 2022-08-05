@@ -6,6 +6,8 @@
  
  Set up and connect your Metamask account
  
+ [Metamask](https://metamask.io/)
+ 
  ## Installation
  
  ```
