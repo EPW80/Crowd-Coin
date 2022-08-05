@@ -1,6 +1,6 @@
-# Ethereum-kickstart
+# Ethereum-CrowdCoin
 
- Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain
+ Ethereum, Solidity, and Smart Contracts to build production-ready apps based on the blockchain. Crowd Coin is an app that utilizes ethereum for donations. Users can view campaigns and donate using their Metamask accounts.
  
  ## Metamask Required
  
