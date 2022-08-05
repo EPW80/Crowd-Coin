@@ -8,6 +8,10 @@
  
  [Metamask](https://metamask.io/)
  
+ ## Remix Ide for smart contracts
+ 
+ [Remix IDE](https://remix-project.org/)
+ 
  ## Installation
  
  ```
