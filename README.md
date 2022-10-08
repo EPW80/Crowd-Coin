@@ -15,15 +15,19 @@
  ## Installation
  
  ```
+ npm install
+ ```
+ 
+ ## Necessary package
+ 
+ ```
  npm install next-routes --legacy-peer-deps
  
  ```
  
  ![Screenshot](kick.png)
  
- ## Deployment
- 
- [Vercel](https://ethreum-kickstart-10bxba6he-epw80.vercel.app/)
+![Demo](https://camo.githubusercontent.com/456405ebb0d483671cdc5096f11cad695c159a94d98d31379b2333226998104a/68747470733a2f2f692e696d6775722e636f6d2f5a4a6e4962464e2e676966)
  
  ## Contributor
  Erik Williams
